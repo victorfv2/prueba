@@ -1,4 +1,12 @@
 Realmente es solo una prueba :P
+prueba de union
 hola a todos
+<<<<<<< HEAD
 vicent
 - Okey
+=======
+
+- Okey
+
+este es el principal
+>>>>>>> 90645883f04057790b3439b5b4edcbbd41abf31e
